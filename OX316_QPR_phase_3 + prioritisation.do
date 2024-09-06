@@ -2,8 +2,6 @@
 *filename	OX316_QPR_phase_3 + prioritisation
 *author		AS_JH adapted
 *date		21.11.2023
-*version	update pregnancy loss dates to include 83 days
-*/
 
 *------------------------------------------------------
 ****This code is for illustrative purposes only******
